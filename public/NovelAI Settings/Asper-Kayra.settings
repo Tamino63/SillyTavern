@@ -1,0 +1,21 @@
+{
+    "tail_free_sampling": "0.500",
+    "top_k": 0,
+    "top_p": 0.9,
+    "top_a": 0,
+    "preamble": "[ Style: chat, complex, sensory, visceral ]",
+    "prefix": "vanilla",
+    "cfg_uc": "",
+    "banned_tokens": "",
+    "order": [
+        1,
+        5,
+        0,
+        2,
+        3,
+        4
+    ],
+    "logit_bias": [],
+    "genamt": 16,
+    "max_length": 6144
+}
